@@ -155,7 +155,6 @@ const config = {
         '7xl': 'var(--font-size-7xl, 4.5rem)',
         '8xl': 'var(--font-size-8xl, 6rem)',
         '9xl': 'var(--font-size-9xl, 8rem)',
-        '2xs': '0.5rem',
       },
       shadows: {
         sm: 'var(--shadow-sm)',
